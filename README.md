@@ -211,6 +211,7 @@ Endpoint	Method	Access	Description
 /bookings/{id}	DELETE	Authenticated	Cancel a booking
 /chatbot/	POST	Public / Authenticated	Chat with AI assistant
 ```
+```
 Booking Flow
 
 The booking system automatically manages event seat availability.
@@ -250,6 +251,7 @@ Event / Booking Data
 Response
 
 This allows the assistant to provide answers using current application data instead of relying only on the model's general knowledge.
+```
 
 Admin Analytics
 
