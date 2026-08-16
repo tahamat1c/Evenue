@@ -277,8 +277,7 @@ Current development includes:
  AI chatbot
  React frontend
  Responsive UI
- Docker deployment
- Production deployment
+
 
 Project Purpose
 Evenue was developed as a portfolio project to demonstrate full-stack application development, REST API design, authentication and authorization, database management, AI integration, and modern React development.
