@@ -75,7 +75,7 @@ UPDATE users
 SET role = 'admin'
 WHERE email = 'your_email@example.com';
 ```
-
+```
 Tech Stack
 Backend
 FastAPI — REST API framework
@@ -97,6 +97,7 @@ React Router — Client-side routing
 Framer Motion — UI animations
 Recharts — Analytics and charts
 Axios — API communication
+```
 ```
 📁 Project Structure
 Evenue/
